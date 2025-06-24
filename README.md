@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krish-p577
-- I am a current student at the Univeristy of Toronto
-- 
+- 👋 Hi, My name is Krish 
+- Currently a Student and The Univeristy oF Toronto
+- Hosting my projects here
 
 <!---
 krish-p577/krish-p577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
