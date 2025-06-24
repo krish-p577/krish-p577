@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Krish 
-- Currently a Student and The Univeristy oF Toronto
+- Studying at the University Of Toronto
 - Hosting my projects here
 
 <!---
