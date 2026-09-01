@@ -1,3 +1,1 @@
-- I'm Krish 👋
-- Studying at The University of Toronto
-- Projects and course work here
+Projects here
